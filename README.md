@@ -20,3 +20,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 node index.js --action remove --id qdggE76Jtbfd9eWJHrssH
 
 ![image](https://github.com/Domisiaxa/goit-node-hw-01/assets/110849445/0d2a2335-7b29-465b-b130-ebd7193e6def)
+
